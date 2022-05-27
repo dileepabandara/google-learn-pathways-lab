@@ -1,0 +1,3 @@
+# Write Your First Flutter App, part 2  
+
+In this codelab, you'll extend a basic, mobile Flutter app to include interactivity. You'll also create a second page (called a route) that the user can navigate to. Finally, you'll modify the app's theme (color). This codelab extends part 1, where you create an infinite lazily loaded list, but we'll provide the starting code, if you'd like to start with part 2.
