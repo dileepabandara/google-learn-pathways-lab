@@ -9,6 +9,9 @@ class Bicycle {
       : this.cadence = cadence,
         this.speed = speed,
         this.gear = gear;
+
+  @override
+  String toString() => 'Bicycle: $speed mph';
 }
 
 void main() {
