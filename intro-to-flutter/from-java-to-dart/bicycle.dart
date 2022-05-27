@@ -11,4 +11,7 @@ class Bicycle {
         this.gear = gear;
 }
 
-void main() {}
+void main() {
+  var bike = new Bicycle(2, 0, 1);
+  print(bike);
+}
