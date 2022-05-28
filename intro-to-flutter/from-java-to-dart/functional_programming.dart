@@ -5,5 +5,6 @@ main() {
   // for (var length in values) {
   //   print(scream(length));
   // }
-  values.map(scream).forEach(print);
+  // values.map(scream).forEach(print);
+  values.skip(1).take(3).map(scream).forEach(print);
 }
