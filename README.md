@@ -8,4 +8,7 @@ This includes all the lab practices I covered in Google Learning Pathways.
 
 ## Pathways
 - Google Pathway - [Build apps with Flutter](https://developers.google.com/learn/pathways/intro-to-flutter)  
-  My Directory - [intro-to-flutter](https://github.com/dileepabandara/google-learn-pathways-lab/tree/main/intro-to-flutter)
+  My Directory - [intro-to-flutter](https://github.com/dileepabandara/google-learn-pathways-lab/tree/main/intro-to-flutter)  
+  
+- Google Pathway - [Introduction to programming in Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)  
+  My Directory - [basic-android-kotlin-compose-first-program](https://github.com/dileepabandara/google-learn-pathways-lab/tree/main/basic-android-kotlin-compose-before-you-begin)
